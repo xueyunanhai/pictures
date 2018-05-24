@@ -1,0 +1,50 @@
+{
+  "GetGoodSelling": {
+       "StatusCode": "0",
+    "StatusMsg": "请求成功",
+    "StatusData": {
+        "ResultCode": "0",
+        "ResultMsg": "成功！",
+        "ResultData": [{
+            "goodSellingList": [{
+                " goodSellingID ": "0030c7ed-30df-40f7-8a95-2594dfa5f396",
+                " tradeType ": "2",
+                " publishType ": "2",
+                " goodNum ": "JSL2018042154",
+                " goodID ": "1130c7ed-30df-40f7-8a95-2594dfa5f396",
+                " goodName ": " SSG 08 | 炎龙之焰",
+                " shortName ": " CSGO ",
+                " goodType ": "重型武器",
+                " userName ": " user1 ",
+                " totals ": " 1 ",
+                " sellingPrice ": " 60.00 ",
+                " goodStage ": " 2 ",
+                " createTime ": " 2018-01-30   15：20：30 ",
+                " editTime ": " 2018-01-30   15：20：30 ",
+                " expireTime ": " 2018-01-30   15：20：30 ",
+                "tradeBeginTime" :"2018 - 01 - 30 15： 20： 30 ", 
+                "tradeEndTime" : " 2018-01-30   15：20：30 "
+            }, {
+                " goodSellingID ": "0030c7ed-30df-40f7-8a95-2594dfa5f396",
+                " tradeType ": "2",
+                " publishType ": "2",
+                " goodNum ": "JSL2018042154",
+                " goodID ": "1130c7ed-30df-40f7-8a95-2594dfa5f396",
+                " goodName ": " SSG 08 | 炎龙之焰",
+                " shortName ": " CSGO ",
+                " goodType ": "重型武器",
+                " userName ": " user1 ",
+                " totals ": " 1 ",
+                " sellingPrice ": " 60.00 ",
+                " goodStage ": " 2 ",
+                " createTime ": " 2018-01-30   15：20：30 ",
+                " editTime ": " 2018-01-30   15：20：30 ",
+                " expireTime ": " 2018-01-30   15：20：30 ",
+                "tradeBeginTime" :"2018 - 01 - 30 15： 20： 30 ", 
+                "tradeEndTime" : " 2018-01-30   15：20：30 "
+            }],
+            "pageCount": "20"
+        }]
+      }
+    }
+}
